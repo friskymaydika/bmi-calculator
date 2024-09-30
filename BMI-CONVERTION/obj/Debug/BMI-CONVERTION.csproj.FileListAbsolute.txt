@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BMI-CONVERTION\bin\Debug\BMI-CONVERTION.exe.config
+C:\Users\User\source\repos\BMI-CONVERTION\bin\Debug\BMI-CONVERTION.exe
+C:\Users\User\source\repos\BMI-CONVERTION\bin\Debug\BMI-CONVERTION.pdb
+C:\Users\User\source\repos\BMI-CONVERTION\obj\Debug\BMI-CONVERTION.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BMI-CONVERTION\obj\Debug\BMI-CONVERTION.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BMI-CONVERTION\obj\Debug\BMI-CONVERTION.exe
+C:\Users\User\source\repos\BMI-CONVERTION\obj\Debug\BMI-CONVERTION.pdb
